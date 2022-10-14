@@ -1,5 +1,3 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
-
  <div>
    <a href="https://github.com/reztory4chan">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,6 +13,7 @@
  <br>
   
 <div> 
+ 
   ![Snake animation](https://github.com/reztory4chan/reztory4chan/blob/output/github-contribution-grid-snake.svg)
 
 </div>
