@@ -1,6 +1,6 @@
  <div>
    <a href="https://github.com/reztory4chan">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reztory4chan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reztory4chan&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
